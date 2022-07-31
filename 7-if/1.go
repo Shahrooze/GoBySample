@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var i int = 1
-	fmt.Println(i)
+	if true {
+		fmt.Println("this is test")
+	}
 }
