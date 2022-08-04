@@ -15,6 +15,8 @@ func main() {
 func panicker() {
 	fmt.Println("panicker calling")
 	defer func() {
+		// The recover built-in function allows a program to manage behavior of a
+		// panicking .
 		err := recover()
 		if err != nil {
 			log.Println("Somthing wrong", err)
