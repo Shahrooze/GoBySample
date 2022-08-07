@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	///go run -race 11.go
 	msg := "sayHello"
 	go func() {
 		fmt.Println(msg)
