@@ -1,51 +1,43 @@
+
 # GoBySample
 
-Learn Go quickly!
+learn Golang Easily!
 
-Tabke of Contents
+**Tabke of Contents**
 ---
-1- Valiables: 
-Variables are containers for storing data values.
 
-2- Primitives: 
-we have four different groups of useful primitive types, namely string, numeric type, bool, and error type.
+**1- Valiables:** Variables are containers for storing data values.
 
-3- Constants: 
-some kind of variable that should have a fixed value that cannot be changed.
+**2- Primitives:** we have four different groups of useful primitive types, namely string, numeric type, bool, and error type.
 
-4- Arrays: 
-Arrays are used to store multiple values of the same type in a single variable, instead of declaring separate variables for each value.
+**3- Constants:** some kind of variable that should have a fixed value that cannot be changed.
 
-5- Maps: 
-maps are used to store data values in key:value pairs.
+**4- Arrays:** Arrays are used to store multiple values of the same type in a single variable, instead of declaring separate variables for each value.
 
-6- Struct: 
-A struct (short for structure) is used to create a collection of members of different data types, into a single variable.
+**5- Maps:** maps are used to store data values in key:value pairs.
 
-7- if (Conditions): 
-Conditional statements are used to perform different actions based on different conditions.
+**6- Struct:** A struct (short for structure) is used to create a collection of members of different data types, into a single variable.
 
-8- Switch: 
-we use the switch statement to select one of many code blocks to be executed.
+**7- if (Conditions):** Conditional statements are used to perform different actions based on different conditions.
 
-9- Packages: 
-a package is a collection of source files in the same directory that are compiled together. Functions, types, variables, and constants defined in one source file are visible to all other source files within the same package.
+**8- Switch:** we use the switch statement to select one of many code blocks to be executed.
 
-10- Loops: 
-run codes mutliple times!
+**9- Packages:** a package is a collection of source files in the same directory that are compiled together. Functions, types, variables, and constants defined in one source file are visible to all other source files within the same package.
 
-11- Defer
+**10- Loops:** run codes mutliple times!
 
-12- Panic
+**11- Defer**
 
-13- Pointers
+**12- Panic**
 
-14- Functions
+**13- Pointers**
 
-15- Interfaces
+**14- Functions**
 
-16- Go Routines
+**15- Interfaces**
 
-17- Go Server
+**16- Go Routines**
 
-18- CRUD
+**17- Go Server**
+
+**18- CRUD**
