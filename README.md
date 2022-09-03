@@ -3,7 +3,7 @@
 
 learn Golang Easily!
 
-**Tabke of Contents**
+**Table of Contents**
 ---
 
 **1- Valiables:** Variables are containers for storing data values.
